@@ -1,4 +1,5 @@
-
+## Hi, I'm Ahmed👋
+I'm a Computer Science Student at Luigi Galvani, Milan 🧠
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmed.pryvv) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedmoustafadev@gmail.com) 
 
